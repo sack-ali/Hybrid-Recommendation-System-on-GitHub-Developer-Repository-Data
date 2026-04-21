@@ -1,4 +1,4 @@
-# Hybrid-Recommendation-System-on-GitHub-Developer-Repository-Data
+# Hybrid Recommendation System on GitHub Developer–Repository Data
 
 A hybrid recommendation system that combines **content-based filtering**, **collaborative / social signals**, and **popularity-based scoring** to recommend GitHub repositories to developers. A Random Forest **Learning-to-Rank (LTR)** model is trained on top of these signals for ranking.
 
